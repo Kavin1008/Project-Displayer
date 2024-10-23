@@ -1,0 +1,9 @@
+.hoverBox {
+    background-color: whitesmoke;
+    z-index: 10;
+    transition: all 4s cubic-bezier(0, 1.23, 0.53, 1.71);
+  }
+  
+.hoverBox:hover {
+  background-color: black;
+} 
